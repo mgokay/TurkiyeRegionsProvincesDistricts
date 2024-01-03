@@ -1,5 +1,5 @@
 # Türkiye's Regions, Provinces, Districts
-Regions, provinces, districts, neighborhoods in Turkey. Plate numbers of provinces included. You can find text, Excel, Open Document files.
+Regions, provinces, districts, neighborhoods in Turkey. Plate numbers of provinces included. You can find Excel and Open Document files.
 
 # Türkiye's Regions
 | RegionId | RegionName               |
